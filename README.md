@@ -43,3 +43,23 @@ print("--- Calculadora de Área de Rectángulo ---")
 print(f"La base es: {base}")
 print(f"La altura es: {altura}")
 print(f"El área del rectángulo es: {area}") # Aquí mostramos el resultado del cálculo
+
+# Mostrando el resultado de la comparación
+if es_cuadrado:
+    print("¡Es un cuadrado porque la base es igual a la altura!")
+else:
+    print("No es un cuadrado.")
+
+print("----------------------------------------")
+
+ Reflexión Personal sobre lo Aprendido
+Empezar a programar es como aprender un nuevo idioma, pero uno que las computadoras entienden. Al principio, los conceptos como variables y tipos de datos pueden parecer abstractos, pero al verlos en acción con ejemplos como el del área del rectángulo, todo empieza a tener sentido.
+
+Me doy cuenta de que la programación no se trata solo de escribir código, sino de pensar de forma lógica y estructurada para resolver problemas. Cada instrucción cuenta, y entender la "personalidad" de cada tipo de dato es clave para evitar errores.
+
+Me entusiasma la idea de poder crear cosas con código, desde pequeñas utilidades hasta aplicaciones más complejas. Este es solo el comienzo, y estoy ansioso/a por seguir explorando y aprendiendo más. La capacidad de dar instrucciones a una máquina para que haga lo que queremos es increíblemente poderosa.
+
+
+### Referencias de IA
+- ChatGPT: conversación sobre variables en Python (https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_LATAM_CO_ES_052925&utm_term=chatgpt&utm_content=179769193386&utm_ad=755154750445&utm_match=e&gad_source=1&gad_campaignid=22619984056&gbraid=0AAAAA-IW-UUj_fOfX1xQVh8LDqZvsMyFa&gclid=Cj0KCQiAq7HIBhDoARIsAOATDxCsgdSclm8NBeF7aptuJ3bLkaoIsGgNqjOQU9omMElD_LhFLRd0GhIaAt6mEALw_wcB)
+- luzia: sugerencia de formato Markdown
