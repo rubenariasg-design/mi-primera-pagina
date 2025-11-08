@@ -57,6 +57,6 @@ Me doy cuenta de que la programación no se trata solo de escribir código, sino
 Me entusiasma la idea de poder crear cosas con código, desde pequeñas utilidades hasta aplicaciones más complejas. Este es solo el comienzo, y estoy ansioso/a por seguir explorando y aprendiendo más. La capacidad de dar instrucciones a una máquina para que haga lo que queremos es increíblemente poderosa.
 
 
-### Referencias de IA
+## 4. Referencias de IA
 - ChatGPT: conversación sobre variables en Python (https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_LATAM_CO_ES_052925&utm_term=chatgpt&utm_content=179769193386&utm_ad=755154750445&utm_match=e&gad_source=1&gad_campaignid=22619984056&gbraid=0AAAAA-IW-UUj_fOfX1xQVh8LDqZvsMyFa&gclid=Cj0KCQiAq7HIBhDoARIsAOATDxCsgdSclm8NBeF7aptuJ3bLkaoIsGgNqjOQU9omMElD_LhFLRd0GhIaAt6mEALw_wcB)
 - luzia: sugerencia de formato Markdown
