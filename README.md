@@ -1,4 +1,4 @@
-# mi-primera-pagina
+## 1. mi-primera-pagina
 Repositorio de práctica para aprender GitHub
 #unidad 1
 """"
@@ -22,7 +22,7 @@ B=12
 C = A + B
 Print(c)
 
-## 5. Ejemplo Práctico en Python
+## 2. Ejemplo Práctico en Python
 
 ```python
 # Un programa simple para calcular el área de un rectángulo
@@ -47,9 +47,10 @@ if es_cuadrado:
 else:
     print("No es un cuadrado.")
 
-print("----------------------------------------")
+print("----------------------------------------"
 
- Reflexión Personal sobre lo Aprendido
+## 3. RefleXion Personal de lo aprendido
+
 Empezar a programar es como aprender un nuevo idioma, pero uno que las computadoras entienden. Al principio, los conceptos como variables y tipos de datos pueden parecer abstractos, pero al verlos en acción con ejemplos como el del área del rectángulo, todo empieza a tener sentido.
 
 Me doy cuenta de que la programación no se trata solo de escribir código, sino de pensar de forma lógica y estructurada para resolver problemas. Cada instrucción cuenta, y entender la "personalidad" de cada tipo de dato es clave para evitar errores.
