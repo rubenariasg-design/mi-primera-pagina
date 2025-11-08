@@ -27,24 +27,21 @@ Print(c)
 ```python
 # Un programa simple para calcular el área de un rectángulo
 
-# 1. Declaración de variables (almacenamos datos)
-base = 10  # Tipo de dato: Entero (Integer)
-altura = 5 # Tipo de dato: Entero (Integer)
 
-# 2. Usando un operador aritmético para calcular el área
-#    (multiplicación: *)
+base = 10  
+altura = 5 
+
+   (multiplicación: *)
 area = base * altura
 
-# 3. Usando un operador de comparación (ejemplo)
-es_cuadrado = (base == altura) # Comprueba si base es igual a altura
+
+es_cuadrado = (base == altura)
 
 # 4. Mostrando los resultados usando la función print()
 print("--- Calculadora de Área de Rectángulo ---")
 print(f"La base es: {base}")
 print(f"La altura es: {altura}")
-print(f"El área del rectángulo es: {area}") # Aquí mostramos el resultado del cálculo
-
-# Mostrando el resultado de la comparación
+print(f"El área del rectángulo es: {area}") 
 if es_cuadrado:
     print("¡Es un cuadrado porque la base es igual a la altura!")
 else:
