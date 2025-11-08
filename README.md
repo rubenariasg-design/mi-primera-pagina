@@ -48,7 +48,7 @@ else:
 
 print("----------------------------------------"
 
-## 3 . RefleXion Personal de lo aprendido
+## 3 . Reflexion Personal de lo aprendido
 
 Empezar a programar es como aprender un nuevo idioma, pero uno que las computadoras entienden. Al principio, los conceptos como variables y tipos de datos pueden parecer abstractos, pero al verlos en acción con ejemplos como el del área del rectángulo, todo empieza a tener sentido.
 
