@@ -37,7 +37,6 @@ area = base * altura
 
 es_cuadrado = (base == altura)
 
-# 1. Mostrando los resultados usando la función print()
 print("--- Calculadora de Área de Rectángulo ---")
 print(f"La base es: {base}")
 print(f"La altura es: {altura}")
